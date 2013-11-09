@@ -55,13 +55,13 @@ pod 'SDWebImage', '3.5'
 #     pod 'KIF', '~> 2.0'
 # end
 
-target :test, :exclusive => true do
-  pod 'Kiwi'
-end
-
-target :debug do
-    pod 'CocoaLumberjack'
-end
+# target :test, :exclusive => true do
+#   pod 'Kiwi'
+# end
+# 
+# target :debug do
+#     pod 'CocoaLumberjack'
+# end
 
 
 #####################################################################

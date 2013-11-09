@@ -1,0 +1,73 @@
+PODS:
+  - AAMFeedback (0.1.1):
+    - UIDeviceIdentifier
+  - Facebook-iOS-SDK (3.9.0)
+  - GoogleAnalytics-iOS-SDK (3.0.2)
+  - GRMustache (6.8.3):
+    - JRSwizzle (~> 1.0)
+  - HPGrowingTextView (1.0.1)
+  - JRSwizzle (1.0)
+  - MKNetworkKit (0.87):
+    - Reachability (~> 3.1.0)
+  - MKNetworkKit+RACExtensions (0.2):
+    - MKNetworkKit
+    - ReactiveCocoa
+  - Parse (1.2.15):
+    - Facebook-iOS-SDK (~> 3.7)
+  - Parse-iOS-SDK (1.2.15):
+    - Facebook-iOS-SDK (~> 3.7)
+  - Parse-RACExtensions (0.0.3):
+    - Parse (~> 1.2.15)
+    - ReactiveCocoa (~> 2.1)
+  - Reachability (3.1.1)
+  - ReactiveCocoa (2.1.6):
+    - ReactiveCocoa/Core
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/Core (2.1.6):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.1.6)
+  - SDWebImage (3.5):
+    - SDWebImage/Core
+  - SDWebImage/Core (3.5)
+  - SVProgressHUD (1.0)
+  - UIDeviceIdentifier (0.1)
+  - vfrReader (2.6.2)
+
+DEPENDENCIES:
+  - AAMFeedback (from `https://github.com/azu/AAMFeedback.git`)
+  - GoogleAnalytics-iOS-SDK (~> 3.0)
+  - GRMustache (~> 6.8)
+  - HPGrowingTextView (~> 1.0)
+  - MKNetworkKit (~> 0.87)
+  - MKNetworkKit+RACExtensions (~> 0.2)
+  - Parse-iOS-SDK (~> 1.2.15)
+  - Parse-RACExtensions (~> 0.0.3)
+  - ReactiveCocoa (~> 2.1)
+  - SDWebImage (= 3.5)
+  - SVProgressHUD (~> 1.0)
+  - vfrReader (~> 2.6)
+
+EXTERNAL SOURCES:
+  AAMFeedback:
+    :git: https://github.com/azu/AAMFeedback.git
+
+SPEC CHECKSUMS:
+  AAMFeedback: bd30de5729ca367e9ccf3600580f6d028ddced9e
+  Facebook-iOS-SDK: 5e1416dbdfc17b2620c2ca31c02e6feec042f2c1
+  GoogleAnalytics-iOS-SDK: 51661781af363bdaac260df244db2539c707311d
+  GRMustache: 90fc77ae45a5b8b5a4cf13874cae811461a1c930
+  HPGrowingTextView: fd77b93b9096dd1493a312c8856810b652b04dcc
+  JRSwizzle: 6242ff38485d870fc2636899048ee1ab883ae587
+  MKNetworkKit: f174100f92473012138b6b1c3040266af8d43a14
+  MKNetworkKit+RACExtensions: 93a2bfbe1429d365e008926e84745a91382877b1
+  Parse: 200f5d714e38ed4c74e93d159e6fabaf2ab8d914
+  Parse-iOS-SDK: 1fd9797daf2ebac19f5fc041d9015e797df1594a
+  Parse-RACExtensions: 263ecd0fab341e0241ed01d7cf525c9e10fa79b8
+  Reachability: 2be6bc2fd2bd31d97f5db33e75e4b29c79e95883
+  ReactiveCocoa: 63b3bae2d4008b897eb982042dfbc379f6d04a2e
+  SDWebImage: f1a72472f8a2d54445f1fedafe2090593d9caf7f
+  SVProgressHUD: 5e10939a296debf5fe5a5895eda9539b8b2114f1
+  UIDeviceIdentifier: 64036321b0f77ff41b4200002f0c138431c00d86
+  vfrReader: b6b005af559b8430dad01120f00fb341bdc8a420
+
+COCOAPODS: 0.27.1
