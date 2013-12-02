@@ -5,9 +5,13 @@
 
 ![](http://primer.ph/freepaper/img/title_freepaper.jpg)
 
-![](http://image.issuu.com/131123084548-b9e433c8286df336072adedc05f72695/jpg/page_1_thumb_large.jpg) 
-![](http://image.issuu.com/130924185106-e253f6ef215f2657cba35c8b615188c7/jpg/page_1_thumb_large.jpg) 
-![](http://image.issuu.com/131024175008-e3ce57d3f04e05b4833c850ec629203e/jpg/page_1_thumb_large.jpg) 
+<center>
+<img src="http://image.issuu.com/131123084548-b9e433c8286df336072adedc05f72695/jpg/page_1_thumb_large.jpg">　
+<img src="http://image.issuu.com/130924185106-e253f6ef215f2657cba35c8b615188c7/jpg/page_1_thumb_large.jpg">  
+</center>
+
+
+
 
 
 フィリピンプライマーは在比邦人、観光客を対象としたフィリピンで唯一の月刊フリーマガジンです。 
@@ -29,13 +33,13 @@ Total Monthly Reach: 60, 000
 
 ★ Unique Users: 20,000 (60% of the website visitors come from Japan)
 
-For the complete list of our media services, please visit:   https://www.facebook.com/Primer.ph
+For the complete list of our media services, please visit:   
+https://www.facebook.com/Primer.ph
 
 
 * [フィリピン旅行、生活、情報サイト フィリピンプライマー](http://primer.ph/)
 * [フィリピンのフリーペーパー フィリピンプライマー](http://primer.ph/freepaper/index.html)
 * [Philippine Primer | Facebook](https://www.facebook.com/PhilippinePrimer)
-
-* [iTunes の App Store で配信中の iPhone、iPod touch、iPad 用 フィリピンプライマー](https://itunes.apple.com/jp/app/firipinpuraima/id458041685?mt=8)
 * [ISSUU - Primer Media, Inc.](http://issuu.com/staffprimer)
+* [iTunes の App Store で配信中の iPhone、iPod touch、iPad 用 フィリピンプライマー](https://itunes.apple.com/jp/app/firipinpuraima/id458041685?mt=8)
 
